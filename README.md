@@ -87,15 +87,6 @@ The project uses:
 
 Each video is segmented into discourse units and annotated for **Topic and Focus**. The timestamp of each information-structural element is recorded.
 
-For example:
-
-> “Something strange happened to me yesterday…”
-
-**Topic:** something strange
-**Focus:** delayed
-
-The subsequent discourse is examined until the intended Focus is explicitly realized.
-
 The delay can then be quantified:
 
 **Focus Delay = Focus timestamp − Topic timestamp**
