@@ -1,9 +1,9 @@
-# Keep-Watching-Delayed-Focus-and-Viewer-Engagement-in-TikTok-and-Instagram-Reels
+# Keep-Watching-Delayed-Focus-and-Viewer-Engagement-in-TikTok-Reels
 Delayed Focus and Viewer Engagement
 
 ## Project Focus
 
-This project investigates the relationship between **information structure** and **viewer engagement** in TikTok and Instagram Reels.
+This project investigates the relationship between **information structure** and **viewer engagement** in TikTok Reels.
 
 The main focus is the **temporal displacement of linguistic Focus**: cases where the semantic content expected to function as the main Focus is intentionally withheld and revealed later in the discourse.
 
