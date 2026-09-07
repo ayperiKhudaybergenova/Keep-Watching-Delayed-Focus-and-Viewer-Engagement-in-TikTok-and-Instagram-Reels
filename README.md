@@ -17,12 +17,12 @@ The project compares:
 
 ## Research Question
 
-**How does the temporal delay of Focus affect viewer retention and engagement in short-form social media videos?**
+**How does the temporal delay of Focus affect viewer retention and engagement in short-form social media videos?**j
 
 ## Methods
 
-* **Corpus construction:** Collect and annotate a corpus of TikTok and Instagram Reels videos.
-* **Transcription:** Produce time-aligned transcripts of selected videos.
+* **Corpus construction:** Collecting  annotating a corpus of TikTok Reels videos.
+* **Transcription:** Producing  time-aligned transcripts of selected videos.
 * **Information-structure annotation:** Identify Topic, Focus, Given Information, and New Information.
 * **Temporal annotation:** Record the timestamp at which the Topic is introduced and the timestamp at which the Focus is revealed.
 * **Delay measurement:** Calculate Focus Delay as the temporal distance between Topic establishment and Focus realization.
