@@ -1,0 +1,227 @@
+# 5. Information-Structural and Linguistic Complexity
+
+## 5.1 Categories for Analysis
+
+The complexity analysis uses the following categories:
+
+| Category                   | What is measured                                                                     |
+| -------------------------- | ------------------------------------------------------------------------------------ |
+| **Sentence length**        | Number of words per sentence                                                         |
+| **Clause complexity**      | Number of clauses within one sentence                                                |
+| **Subordination**          | Presence of dependent clauses                                                        |
+| **Relative clauses**       | Relative clauses introduced by *that, which,* etc.                                   |
+| **Coordination**           | Coordinated clauses or phrases using *and, but, so,* etc.                            |
+| **Complex noun phrases**   | Noun phrases containing several modifiers                                            |
+| **Lexical diversity**      | Number of different words in relation to total words (TTR)                           |
+| **Lexical sophistication** | Presence of relatively less frequent or more specific lexical choices                |
+| **Lexical density**        | Concentration of content words such as nouns, lexical verbs, adjectives, and adverbs |
+
+Lu (2010) treats mean sentence length, clauses per sentence, subordination, coordination, and complex noun phrases as established measures of syntactic complexity. Lexical complexity can be examined through diversity, density, and sophistication.
+
+## 5.2 Video 1
+
+### Sentence length
+
+1. **“All right guys, I moved to Thailand 6 months ago and this is all the damn groceries I just got.”**
+   → **20 words**
+   → Long sentence.
+
+2. **“It's gonna last me for the month.”**
+   → **8 words**
+   → Short sentence.
+
+3. **“Just came back from Macro's and I got all this produce, all this fresh fruit, all this meat.”**
+   → **19 words**
+   → Long sentence.
+
+4. **“I'm gonna tell you how much it costs at the very end.”**
+   → **13 words**
+   → Medium-length sentence.
+
+5. **“But guys, this is like 17 individually packed steaks that they cut and packaged in the store.”**
+   → **17 words**
+   → Long sentence.
+
+6. **“You know, we got the fresh produce too.”**
+   → **8 words**
+   → Short sentence.
+
+7. **“We got the broccoli, we got the carrots, we even got sprouts in there.”**
+   → **14 words**
+   → Medium-length sentence with repeated coordination.
+
+8. **“We got fresh berries, we even got glass Tupperwares and a rice cooker.”**
+   → **13 words**
+   → Medium-length sentence with coordination.
+
+9. **“And believe me, this all cost me 5,682 baht, which comes out to $174.”**
+   → **14 words**
+   → Medium-length sentence with a relative clause.
+
+10. **“Was it worth it?”**
+    → **4 words**
+    → Very short sentence.
+
+**Average sentence length: 13.6 words.**
+
+### Clause complexity
+
+* **Sentence 1:** two main clauses coordinated by **and**.
+* **Sentence 3:** two coordinated clauses joined by **and**.
+* **Sentence 4:** main clause + embedded interrogative clause: **“how much it costs.”**
+* **Sentence 5:** main clause + relative clause: **“that they cut and packaged in the store.”**
+* **Sentence 9:** main clause + relative clause: **“which comes out to $174.”**
+
+### Relative clauses
+
+* **“all the damn groceries I just got”** → reduced/zero relative construction modifying *groceries*.
+* **“17 individually packed steaks that they cut and packaged in the store”** → explicit relative clause.
+* **“5,682 baht, which comes out to $174”** → non-restrictive relative clause.
+
+### Coordination
+
+* **“I moved to Thailand … and this is all the damn groceries…”**
+* **“Just came back from Macro's and I got…”**
+* **“We got the broccoli, we got the carrots, we even got sprouts…”**
+* **“We got fresh berries, we even got glass Tupperwares and a rice cooker.”**
+* **“this all cost me 5,682 baht, which comes out to $174.”**
+
+Coordination is therefore frequent and is mainly used to **add successive information units**.
+
+### Complex noun phrases
+
+* **“all the damn groceries I just got”**
+* **“17 individually packed steaks”**
+* **“all this fresh fruit”**
+* **“glass Tupperwares and a rice cooker”**
+
+The phrase **“17 individually packed steaks that they cut and packaged in the store”** is the clearest example of a structurally expanded noun phrase because it combines a numeral, adjective/participle modification, a noun, and a relative clause.
+
+### Lexical complexity
+
+The vocabulary is predominantly concrete and everyday: **groceries, produce, fruit, meat, broccoli, carrots, sprouts, berries, rice cooker, steaks**.
+
+However, some lexical choices provide additional specificity:
+
+* **“individually packed”**
+* **“fresh produce”**
+* **“glass Tupperwares”**
+* **“rice cooker”**
+* **“5,682 baht”**
+
+The vocabulary is therefore **specific rather than technically sophisticated**. The complexity comes more from the accumulation and modification of information than from difficult vocabulary.
+
+### Lexical diversity
+
+Video 1 contains approximately **123 lexical tokens and 74 different word types**, giving a TTR of approximately **0.60**.
+
+### Complexity conclusion: Video 1
+
+Video 1 shows **moderate syntactic complexity with repeated coordination, several embedded/relative clauses, expanded noun phrases, and relatively long sentences**. Its lexical complexity is mainly based on **specific concrete vocabulary and repeated item descriptions**, rather than rare or difficult words. The information is therefore made structurally more elaborate through **sentence expansion and accumulation of details**.
+
+---
+
+## 5.3 Video 2
+
+### Sentence length
+
+1. **“This is how much I paid for food here in Thailand.”**
+   → **11 words**
+   → Medium-length sentence.
+
+2. **“So we went to the Kata Beach Night Market and they had amazing selection, so I went straight to eating.”**
+   → **20 words**
+   → Long sentence.
+
+3. **“So first was the pad thai for $2.40, and then after we had the barbecue for $3, and then next I ordered the salmon with some fries and veggies for $3.60, and then moved straight on to the seafood fried rice, and that was $4.50, and then ended stuff off with mango sticky rice for $3.”**
+   → **56 words**
+   → Very long sentence.
+
+4. **“So yeah, the total for the night came out to be $16.50.”**
+   → **12 words**
+   → Medium-length sentence.
+
+5. **“Follow for more.”**
+   → **3 words**
+   → Very short sentence.
+
+**Average sentence length: 20.4 words.**
+
+The average is substantially higher than in Video 1 because Sentence 3 contains a **56-word coordinated sequence**.
+
+### Clause complexity
+
+* **Sentence 1:** main clause + embedded interrogative clause: **“how much I paid…”**
+* **Sentence 2:** multiple coordinated clauses connected by **and** and **so**.
+* **Sentence 3:** several coordinated clauses and information units connected through repeated **and then**.
+* **Sentence 4:** single main clause.
+* **Sentence 5:** imperative clause.
+
+### Relative clauses
+
+Video 2 contains **no clear explicit relative clauses**.
+
+This contrasts with Video 1, where relative clauses are used to elaborate noun phrases.
+
+### Coordination
+
+Coordination is the dominant syntactic characteristic of Video 2.
+
+Sentence 3 contains repeated coordination:
+
+* **“and then after we had the barbecue…”**
+* **“and then next I ordered the salmon…”**
+* **“and then moved straight on…”**
+* **“and that was $4.50”**
+* **“and then ended stuff off…”**
+
+The sentence therefore contains a chain of coordinated information units rather than multiple embedded structures.
+
+### Complex noun phrases
+
+* **“the Kata Beach Night Market”**
+* **“the salmon with some fries and veggies”**
+* **“the seafood fried rice”**
+* **“mango sticky rice”**
+* **“the total for the night”**
+
+These noun phrases are mainly expanded through **prepositional or lexical modification**, rather than relative clauses.
+
+### Lexical complexity
+
+The vocabulary is mainly concrete and highly accessible:
+
+* **pad thai**
+* **barbecue**
+* **salmon**
+* **fries**
+* **veggies**
+* **seafood fried rice**
+* **mango sticky rice**
+
+The lexical choices are specific to food and the setting but are not particularly sophisticated or abstract.
+
+### Lexical diversity
+
+Video 2 contains approximately **96 lexical tokens and 59 different word types**, giving a TTR of approximately **0.61**.
+
+### Complexity conclusion: Video 2
+
+Video 2 shows **high sentence-level length but relatively low structural embedding**. Its complexity mainly comes from **coordination and the accumulation of several information units inside one long sentence**, especially Sentence 3. It contains no clear relative clauses and relies heavily on repeated coordination. Lexically, the vocabulary is concrete and accessible.
+
+---
+
+## 5.4 Comparison
+
+| Complexity feature        |                      Video 1 |                       Video 2 |
+| ------------------------- | ---------------------------: | ----------------------------: |
+| Average sentence length   |                   13.6 words |                    20.4 words |
+| Longest sentence          |                     20 words |                      56 words |
+| Relative clauses          |                      Several |          None clearly present |
+| Coordination              |                     Frequent |                 Very frequent |
+| Embedded clauses          |                      Present |                       Limited |
+| Complex noun phrases      |                      Present |                       Present |
+| Lexical diversity (TTR)   |                       ≈ 0.60 |                        ≈ 0.61 |
+| Main source of complexity | Elaboration and modification | Coordination and accumulation |
+
+**Overall conclusion:** Video 1 creates complexity mainly through **elaboration, modification, and relative/embedded clauses**, while Video 2 creates complexity mainly through **long coordinated sequences**. Neither video depends strongly on difficult or highly sophisticated vocabulary. The principal difference is therefore **syntactic organization rather than lexical difficulty**.
