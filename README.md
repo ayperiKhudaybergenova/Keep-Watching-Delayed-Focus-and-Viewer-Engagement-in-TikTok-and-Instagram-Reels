@@ -46,6 +46,8 @@ The initial analysis suggests that:
 * Both videos use accessible/Given information to maintain discourse continuity.
 * The main difference is the **timing and organization of New information**.
 
+ For more findings please have a look to the individual analysis files.
+ 
 ## Source Videos
 
 The linguistic data were collected from publicly available TikTok videos:
