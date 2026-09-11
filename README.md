@@ -60,6 +60,8 @@ The initial analysis suggests that:
 | Emphatic Focus           | *even* + highlighted items                            | Limited                                |
 | Price as Focus           | Delayed until the end                                 | Usually immediate                      |
 | Main Topic–Focus pattern | Stable Topic → successive Focus units → delayed price | New item/Topic → immediate price Focus |
+ 
+ 
  For more findings please have a look to the individual analysis files.
  
 ## Source Videos
