@@ -46,6 +46,20 @@ The initial analysis suggests that:
 * Both videos use accessible/Given information to maintain discourse continuity.
 * The main difference is the **timing and organization of New information**.
 
+
+# Focus& Topic
+
+| Feature                  | Video 1                                               | Video 2                                |
+| ------------------------ | ----------------------------------------------------- | -------------------------------------- |
+| Dominant Topic type      | Activated/anaphoric/deictic                           | Activated + new food Topics            |
+| Dominant Focus type      | Narrow + broad + emphatic                             | Mainly narrow                          |
+| New Topics               | Individual grocery items                              | Individual food items                  |
+| Anaphoric Topics         | Frequent                                              | Frequent                               |
+| Deictic Topics           | *this*                                                | *this*                                 |
+| Implicit Topics          | *I*                                                   | *I*                                    |
+| Emphatic Focus           | *even* + highlighted items                            | Limited                                |
+| Price as Focus           | Delayed until the end                                 | Usually immediate                      |
+| Main Topic–Focus pattern | Stable Topic → successive Focus units → delayed price | New item/Topic → immediate price Focus |
  For more findings please have a look to the individual analysis files.
  
 ## Source Videos
