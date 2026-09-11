@@ -1,100 +1,65 @@
-# Keep-Watching-Delayed-Focus-and-Viewer-Engagement-in-TikTok-Reels
-Delayed Focus and Viewer Engagement
+# Delayed New Information and Viewer Engagement in Short-Form Social Media Videos
 
-## Project Focus
+## Overview
 
-This project investigates the relationship between **information structure** and **viewer engagement** in TikTok Reels.
+This project investigates how short-form video creators organize information when important **New information** is delayed versus presented immediately.
 
-The main focus is the **temporal displacement of linguistic Focus**: cases where the semantic content expected to function as the main Focus is intentionally withheld and revealed later in the discourse.
 
-The project compares:
+## Research Questions
 
-**Canonical structure:**
-`Topic → Focus`
+1. How do creators organize information structure when important New information is delayed?
+2. How does the linguistic change occur when  New information is delayed compared with when it is presented immediately, particularly in terms of Topic–Focus organization, Given–New information, discourse markers, anaphoric relations, and linguistic complexity?
 
-**Delayed-focus structure:**
-`Topic → Intervening material → Focus`
 
-## Research Question
 
-**How does the temporal delay of Focus affect viewer retention and engagement in short-form social media videos?**j
+## Data
 
-## Methods
+The preliminary dataset contains short-form videos about food/grocery spending in Thailand.
 
-* **Corpus construction:** Collecting  annotating a corpus of TikTok Reels videos.
-* **Transcription:** Producing  time-aligned transcripts of selected videos.
-* **Information-structure annotation:** Identify Topic, Focus, Given Information, and New Information.
-* **Temporal annotation:** Record the timestamp at which the Topic is introduced and the timestamp at which the Focus is revealed.
-* **Delay measurement:** Calculate Focus Delay as the temporal distance between Topic establishment and Focus realization.
-* **Comparative analysis:** Compare immediate-focus and delayed-focus videos.
-* **Statistical analysis:** Test whether Focus Delay predicts engagement and retention while controlling for variables such as video length.
+* **Video 1:** Target price is announced at the beginning but revealed at the end.
+* **Video 2:** Each food item is immediately followed by its price.
 
-## Analytical Techniques
+## Method
 
-The project uses:
+Each transcript was manually annotated for:
 
-* **Topic–Focus analysis**
-* **Given–New information analysis**
-* **Temporal discourse analysis**
-* **Prosodic analysis** where audio quality permits
-* **Discourse segmentation**
-* **Corpus annotation**
-* **Multimodal analysis** of speech, captions, visuals, and editing
-* **Quantitative correlation/regression analysis**
+* Topic and Focus
+* Given and New information
+* Anaphoric expressions
+* Discourse markers
+* Lexical complexity
+* Position and timing of target New information
 
-## Variables
+A key quantitative measure is:
 
-### Independent Variables
+**New-Information Delay = time of target New-information realization − time of discourse-domain establishment**
 
-* Focus Delay
-* Number of intervening clauses
-* Number of intervening seconds
-* Presence of discourse markers
-* Use of anaphoric expressions such as *this*, *that*, *it*, and *they*
-* Suspense constructions
-* Questions and incomplete constructions
 
-### Dependent Variables
+## Preliminary Findings
 
-* Viewer retention
-* Completion rate
-* Views
-* Likes
-* Comments
-* Shares
+The initial analysis suggests that:
 
-### Control Variables
+* Video 1 uses extended elaboration before revealing the target price.
+* Video 2 uses a repeated **item → price** structure with immediate New information.
+* Video 1 relies more on modification, embedded structures, and elaboration.
+* Video 2 relies more on coordination and sequential discourse markers such as *first*, *then*, and *next*.
+* Both videos use accessible/Given information to maintain discourse continuity.
+* The main difference is the **timing and organization of New information**.
 
-* Video duration
-* Content category
-* Creator size
-* Platform
-* Posting date
+## Source Videos
 
-## What Is Used
+The linguistic data were collected from publicly available TikTok videos:
 
-The project uses:
+* **Video 1:** @simonrileydrums_
+* **Video 2:** @thepamelaokyere_
 
-* TikTok videos
-* Instagram Reels
-* Time-aligned transcripts
-* Linguistic annotation
-* Engagement metrics
-* Statistical analysis
-* A structured annotation dataset
+The videos are used as linguistic data for analyzing information structure, particularly the organization and timing of New information.
 
-## How It Is Used
 
-Each video is segmented into discourse units and annotated for **Topic and Focus**. The timestamp of each information-structural element is recorded.
+## References
 
-The delay can then be quantified:
+* Gundel, J. K., Hedberg, N., & Zacharski, R. (1993). Cognitive status and the form of referring expressions in discourse.
+* Fraser, B. (1999). What are discourse markers?
+* Lu, X. (2010). Automatic analysis of syntactic complexity in second language writing.
+* Erteschik-Shir, N. (2007). *Information Structure: The Syntax–Discourse Interface*.
 
-**Focus Delay = Focus timestamp − Topic timestamp**
-
-These measurements are compared against viewer-retention and engagement data to determine whether delayed information structure is systematically associated with audience behavior.
-
-## Importance
-
-The project examines whether a fundamental linguistic mechanism—**the distribution and timing of information between Topic and Focus—is being strategically exploited by short-form media creators to regulate attention**.
-
-It therefore connects **information structure, discourse analysis, multimodal communication, and computational/quantitative social-media research**.
